@@ -1,11 +1,11 @@
 <?php
 namespace app\index\controller;
 
-class Index
+class Login
 {
     public function index()
     {
-        echo "Hello World";
+        echo "this is a login html";
 
     }
 }
